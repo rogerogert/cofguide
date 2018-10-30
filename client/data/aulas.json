@@ -1,4 +1,5 @@
-[
+{
+  "aulas": [
     {
       "Aula": 1,
       "Título": "Considerações iniciais",
@@ -2124,4 +2125,5 @@
       "Título": "Técnicas e métodos da vida intelectual",
       "Duração": ""
     }
-   ]
+  ]
+}
