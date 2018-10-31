@@ -1,3 +1,8 @@
+$(document).ready(function() {
+    $('#cofTable').DataTable();
+} );
+
+
 var tbody = document.getElementById('tabelaAulas');
 
 for(var i=0; i < aulas.length; i++){
